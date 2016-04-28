@@ -1,0 +1,76 @@
+body{
+    background-image:url("../image/clay-1227878_1280.jpg;
+    background-size:cover;
+    width: 100%;
+}
+
+#header {
+    background-color:lightgray;
+        height: 33%;
+    background-image: url("../images/nyc.jpg");
+        
+        
+}
+
+
+#header1 {
+    
+    background-color:
+    height:18%;
+    width:70%;
+     margin: auto;
+    
+}
+
+
+#firsttext {
+    
+   color:black;
+    
+    font-size: 30px;
+    font-family: san-serif;
+    text-align:center;
+    font-weight: bolder
+   
+}
+
+
+
+#container {
+    background-color: 
+    height:700px;
+    width:100%;
+}
+
+#box {
+    background-color: gray;
+        width:40%;
+        height: 20%;
+        font-family: sans-serif;
+        text-align: center;
+        margin:auto
+}
+#secondtext {
+    color:black;
+  font-family: sans-serif;
+        text-align: center;
+        margin:auto
+}
+
+
+#section {
+    height: 75%;
+        width:65%;
+        margin:auto; 
+    background-image:
+        url("../images/circle-312343_960_720.png");
+    background-size:cover;
+    
+}
+
+#closing {
+    background-color: black;
+        width:80%;
+        height: 5%;
+        margin:auto;
+}
